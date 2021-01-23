@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: f91b675265befaa4e8c600129c41ae8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -633906844769700574
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_0
+  - first:
+      213: -1849116172900252385
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_1
+  - first:
+      213: -4887052452264042332
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_2
+  - first:
+      213: 2020214938381428471
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_3
+  - first:
+      213: -3772336585195361808
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_4
+  - first:
+      213: -578488790483986754
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_5
+  - first:
+      213: 9200275642300273723
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_6
+  - first:
+      213: 3867510579644615510
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_7
+  - first:
+      213: -2503486927929371896
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_8
+  - first:
+      213: -7938846607822380186
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_9
+  - first:
+      213: -5504558029881935709
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_10
+  - first:
+      213: -1635507409398997540
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_11
+  - first:
+      213: -3631747088331578952
+    second: 215-2152859_game-ui-blue-button-set-open-01-website_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22530d05519e337f0800000000000000
+      internalID: -633906844769700574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 282
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15c9d543ae9656e0800000000000000
+      internalID: -1849116172900252385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 282
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a918ffa3bd2cb0800000000000000
+      internalID: -4887052452264042332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 282
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a92c68ce390c10800000000000000
+      internalID: 2020214938381428471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9683accd7f5abc0800000000000000
+      internalID: -3772336585195361808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb618a0928bc8f7f0800000000000000
+      internalID: -578488790483986754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b349cf693f1fdaf70800000000000000
+      internalID: 9200275642300273723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b48c891682ca530800000000000000
+      internalID: 3867510579644615510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039fe037e3d14dd0800000000000000
+      internalID: -2503486927929371896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 136
+        width: 137
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ae6e621d83d190800000000000000
+      internalID: -7938846607822380186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 136
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8fc5fd2a1eb93b0800000000000000
+      internalID: -5504558029881935709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 68
+        width: 136
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd04b2da28d49e0800000000000000
+      internalID: -1635507409398997540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 215-2152859_game-ui-blue-button-set-open-01-website_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 137
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1efe5d341799dc0800000000000000
+      internalID: -3631747088331578952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a2052ca3c429c143838b7f9db878c5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
